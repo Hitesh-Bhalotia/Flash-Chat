@@ -1,6 +1,6 @@
 # flashchat
 
-A new Flutter application.
+A group chat application made using Flutter.
 
 ## Getting Started
 
